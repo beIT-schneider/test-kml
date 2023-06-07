@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>rusak</name>
+  <Placemark>
+	<name>Balai Taman Nasional Siberut</name>
+	<description>C692+J2G, Muara Siberut, Siberut Selatan, Mentawai Islands Regency, West Sumatra 25393</description>
+      <Point><coordinates>99.2000742,-1.5809388</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dusun Limu</name>
+      <Point><coordinates>99.1827752,-1.5169</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dermaga Sigulu-guluk</name>
+	<description>G4FR+MMM, Saliguma, Siberut Tengah, Mentawai Islands Regency, West Sumatr</description>
+      <Point><coordinates>99.1416712,-1.4757792</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nurul Hidayah Mosque</name>
+	<description>G4X8+R6F, Saliguma, Siberut Tengah, Mentawai Islands Regency, West Sumatra</description>
+      <Point><coordinates>99.1155377,-1.4504486</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>mongan gojo</name>
+	<description>G4VW+6P, Saliguma, Siberut Tengah, Mentawai Islands Regency, West Sumatra</description>
+      <Point><coordinates>99.146858,-1.456964</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Umma Maonu Mentawai Camp</name>
+      <Point><coordinates>99.3018834,-1.6852759</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rusak Point 7</name>
+	<description>Rusak Point 7</description>
+      <Point><coordinates>99.2924313,-1.6770719</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
