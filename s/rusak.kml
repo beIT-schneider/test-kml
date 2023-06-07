@@ -2,49 +2,9 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>rusak</name>
-    <Style id="icon-1739-E65100-nodesc-normal">
+    <Style id="icon-1899-0288D1-nodesc-normal">
       <IconStyle>
-        <color>ff0051e6</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <Style id="icon-1739-E65100-nodesc-highlight">
-      <IconStyle>
-        <color>ff0051e6</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <StyleMap id="icon-1739-E65100-nodesc">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-1739-E65100-nodesc-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-1739-E65100-nodesc-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="icon-1899-E65100-normal">
-      <IconStyle>
-        <color>ff0051e6</color>
+        <color>ffd18802</color>
         <scale>1</scale>
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -54,10 +14,13 @@
       <LabelStyle>
         <scale>0</scale>
       </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
     </Style>
-    <Style id="icon-1899-E65100-highlight">
+    <Style id="icon-1899-0288D1-nodesc-highlight">
       <IconStyle>
-        <color>ff0051e6</color>
+        <color>ffd18802</color>
         <scale>1</scale>
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -67,62 +30,53 @@
       <LabelStyle>
         <scale>1</scale>
       </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
     </Style>
-    <StyleMap id="icon-1899-E65100">
+    <StyleMap id="icon-1899-0288D1-nodesc">
       <Pair>
         <key>normal</key>
-        <styleUrl>#icon-1899-E65100-normal</styleUrl>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#icon-1899-E65100-highlight</styleUrl>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Placemark>
-      <name>Point 2</name>
-      <styleUrl>#icon-1739-E65100-nodesc</styleUrl>
+      <name>Balai Taman Nasional Siberut</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
       <Point>
         <coordinates>
-          99.0725355,-1.2119461,0
+          99.2000742,-1.5809388,0
         </coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Point 3</name>
-      <styleUrl>#icon-1739-E65100-nodesc</styleUrl>
+      <name>Dusun Limu</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
       <Point>
         <coordinates>
-          99.2373304,-1.3657157,0
+          99.1827752,-1.5169,0
         </coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Point 4</name>
-      <styleUrl>#icon-1739-E65100-nodesc</styleUrl>
+      <name>Dermaga Sigulu-guluk</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
       <Point>
         <coordinates>
-          99.2647962,-1.4865279,0
+          99.1416712,-1.4757792,0
         </coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Rusak</name>
-      <description><![CDATA[Muara Sikabaluan, Siberut Utara, Mentawai Islands Regency, West Sumatra 25394<br>www.posindonesia.co.id<br>+62 759 810548]]></description>
-      <styleUrl>#icon-1899-E65100</styleUrl>
+      <name>Nurul Hidayah Mosque</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
       <Point>
         <coordinates>
-          99.0043661,-1.1154552,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Point 5
-</name>
-      <description>968H+33J, Dusun Desa, Malilimok, Kec. Seberut Bar. Daya, Kabupaten Kepulauan Mentawai, Sumatera Barat 25393</description>
-      <styleUrl>#icon-1899-E65100</styleUrl>
-      <Point>
-        <coordinates>
-          99.3326833,-1.5994397,0
+          99.1155377,-1.4504486,0
         </coordinates>
       </Point>
     </Placemark>
