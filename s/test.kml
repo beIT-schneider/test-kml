@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Copy of KML Example</name>
+    <description/>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>Saints Family Health Center East</name>
+        <description><![CDATA[Lisa Berger M.D. (/physicians/Lists/physicians/DispForm.aspx?ID=62)<br>Misty Chaney ARNP<br>15679 NE 23rd<br>Choctaw, OK  73020]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -97.252217,35.494634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saints Family Healthcare</name>
+        <description><![CDATA[Ram Singh M.D.<br><br>220 SW 89th St, Ste A<br>Oklahoma City, OK  73139]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -97.517142,35.377175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saint Anthony Family Medicine Center</name>
+        <description><![CDATA[Robert Abell M.D.<br>Richard Boothe M.D.<br>Jan Miller M.D.<br>Cheyn Onarecker M.D.<br><br>608 N.W. 9th Street, Suite 1100<br>Oklahoma City, OK  73102]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -97.523077,35.477236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saints Internal Medicine Classen</name>
+        <description><![CDATA[David Karasek M.D.<br>Sandeep Chopra M.D.<br><br>1110 N. Classen Ste 300<br>Oklahoma City, OK  73106]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -97.528119,35.479498,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saints Medicine Associates</name>
+        <description><![CDATA[Jeffrey Thompson M.D.<br><br>6205 N. Santa Fe<br>Oklahoma City, OK  73118]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -97.51286,35.53541,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saints Metro Medical Associates</name>
+        <description><![CDATA[Jeffrey Hirsch M.D.<br>Y.D. Nguyen M.D.<br><br>120 N. Robinson, Suite 153W<br>Oklahoma City, OK  73102]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -97.515986,35.468469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saints Midwest City</name>
+        <description><![CDATA[Trina Swygert M.D.<br><br>6908 E Reno<br>Midwest City, OK  73110]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -97.407929,35.463599,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saints Mustang Complete Care</name>
+        <description><![CDATA[Meriam Thompson M.D<br>Sherry Miller, ARNP<br><br>501 N. Mustang Rd<br>Mustang, OK  73064]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -97.725092,35.395562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saints Pediatric Associates</name>
+        <description><![CDATA[Emily Marcy M.D.<br>Julie Morrow D.O.<br>Roger Thompson M.D.<br><br>608 N.W. 9th Street, Suite 3000<br>Oklahoma City, OK  73012]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -97.523077,35.477236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saint Anthony Physicians North</name>
+        <description><![CDATA[Matthew Dowell D.O.<br>Gregg Eichman D.O.<br>Robin Gonzalez M.D.<br>Jeffrey Hodgden M.D.<br>Paul Wright M.D.<br>T. Toalson M.D.<br><br>6201 North Santa Fe, Suite 2010<br>Oklahoma City, OK  73118]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -97.512052,35.534581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saints Primary Care Physicians North</name>
+        <description><![CDATA[Denise LeBlanc-Ziegler M.D.<br>Trina Swygert M.D.<br><br>6202 North Santa Fe, Suite 2020<br>Oklahoma City, OK  73119]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -97.512052,35.534581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duc Tu, M.D.</name>
+        <description><![CDATA[Duc Tu, M.D.<br><br>1111 North Lee, Suite 235<br>Oklahoma City, OK  73103]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -97.524873,35.479375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saints Family Health Center Blanchard</name>
+        <description><![CDATA[George Vascellero M.D.<br>Dr. Tyson Quy M.D.<br><br>2002 North Council Rd<br>Blanchard, OK  73010]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -97.652214,35.162348,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>S. K. Bhatia, M.D.</name>
+        <description><![CDATA[Surindar Bhatia M.D.<br><br>608 N.W. 9th Street, Suite 4000<br>Oklahoma City, OK  73102]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -97.523077,35.477236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Center for Integrative Women's Health Care]]></name>
+        <description><![CDATA[Robert Ryan M.D.<br><br>608 N.W. 9th, Suite 2100<br>Oklahoma City, OK  73102]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -97.523077,35.477236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mubina Gaffar, M.D.</name>
+        <description><![CDATA[Mubina Gaffar M.D.<br><br>608 N.W. 9th, Suite 6110<br>Oklahoma City, OK  73102]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -97.523077,35.477236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Scott K. Lucas, M.D.</name>
+        <description><![CDATA[Scott Lucas M.D.<br><br>608 NW 9th, Suite 2110<br>Oklahoma City, OK  73102]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -97.523077,35.477236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brad Marion, M.D.</name>
+        <description><![CDATA[Brad Marion M.D<br><br>608 N.W. 9th Street, Suite 3110<br>Oklahoma City, OK  73102]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -97.523077,35.477236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mary W. Martin, M.D.</name>
+        <description><![CDATA[Mary Martin M.D.<br><br>608 N.W. 9th Street, Suite 4210<br>Oklahoma City, OK  73102]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -97.523077,35.477236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Midtown Orthopedics & Sports Medicine]]></name>
+        <description><![CDATA[Jason Emerson D.O.<br><br>1111 N. Lee 334<br>Oklahoma City, OK  73103]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -97.524873,35.479375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Oklahoma Saints Neurology & Neuromuscular Center]]></name>
+        <description><![CDATA[Zahid Cheema M.D.<br>Tehseen Khan M.D.<br>Salman Zubair M.D.<br><br>535 N.W. 9th Street, Suite 235<br>Oklahoma City, OK  73102]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -97.521782,35.477262,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saints Dermatology</name>
+        <description><![CDATA[Renee Grau M.D.<br>Tiffanny Brazeal M.D.<br><br>608 N.W. 9th, Suite 3206<br>Oklahoma City, OK  73102]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -97.523077,35.477236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saints Internal Medicine</name>
+        <description><![CDATA[David Karasek M.D.<br>Kersey Winfree M.D.<br><br>1111 N. Lee, Suite 334<br>Oklahoma City, OK  73103]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -97.524873,35.479375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saints Neurology</name>
+        <description><![CDATA[David Smith M.D., FAAN<br><br>1111 North Lee, Suite 334<br>Oklahoma City, Ok  73103]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -97.524873,35.479375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Saints Obstetrics & Gynecology]]></name>
+        <description><![CDATA[Chris Lane D.O.<br>Jacob Moore D.O. <br><br>1111 N. Lee, Suite 300<br>Oklahoma City, OK  73103]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -97.524873,35.479375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St. Anthony Vascular Associates #27</name>
+        <description><![CDATA[Kautilya Mehta M.D.<br><br>608 N.W. 9th Street, Suite 5204<br>Oklahoma City, OK  73102]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -97.523077,35.477236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St. Anthony Cadiovascular Specialists</name>
+        <description><![CDATA[Keith Kassabian M.D.<br>Brenda Mullins M.D.<br>Shoab Shafique M.D.<br><br>608 NW 9th, Suite 2200<br>Oklahoma City, OK  73102]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -97.523077,35.477236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St. Anthony Endocrinology</name>
+        <description><![CDATA[Guillermo Pons M.D.<br><br>1111 N. Lee Ste 334<br>Oklahoma City, OK  73103]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -97.524873,35.479375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Interventional Pain Management</name>
+        <description><![CDATA[Ralph Justiz, MD<br>Allison Gorey, ARNP<br><br>535 NW 9th Street, Suite 205<br>Oklahoma City, OK  73102]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -97.521782,35.477262,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St. Anthony Neurosurgery</name>
+        <description><![CDATA[HADI, BASSAM, M.D.<br><br>535 NW 9th St., Suite 205<br>Oklahoma City, OK  73102]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -97.521782,35.477262,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
